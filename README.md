@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🔐 Strong Password Generator
 
 ![Python](https://img.shields.io/badge/python-3.11-blue.svg)
@@ -34,3 +35,7 @@ Enter your desired password length, and the tool will generate a strong password
 ## 📜 License
 This project is licensed under the **MIT License**.
 See the LICENSE file for more details.
+=======
+# Strong-Password-Generator
+Strong Password Generator – A Python CLI tool that generates secure and randomized passwords with a mix of uppercase, lowercase, digits, and special characters. Easy to use, minimum 8 characters, and perfect for personal or professional security needs.
+>>>>>>> 1df11ab969853084f476e91d617566bcbf2a0a2c
